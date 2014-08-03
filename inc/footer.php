@@ -4,13 +4,13 @@ function footer(){
 	echo '
 	</body>
 	<div class="site-footer">
-	<div class="wrap">
+	<div class="wrapper">
 	<div class="admin">
 	</div><!--admin-->
 	<div class="logout">
 	<a href="http://localhost/php/">Log in</a>
 	</div><!--logout-->
-	</div><!--wrap-->
+	</div><!--wrapper-->
 	</div><!-- site-footer -->
 	</div><!-- contaier -->
 	</body>
